@@ -1,0 +1,21 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pkl
+
+# Ignore virtual environments
+venv/
+.env/
+.env
+
+# Ignore dotenv file with secrets
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# VSCode or PyCharm settings
+.vscode/
+.idea/
