@@ -72,6 +72,9 @@ npm start
 <img src="https://github.com/user-attachments/assets/b943f154-b792-4290-8653-4d8e0db8f337" width="500">
 <img src="https://github.com/user-attachments/assets/0ae918e7-3fbe-45e5-bb08-206079d7a89e" width="500">
 
+## 🗒️License
+This project is licensed under the [Apache License 2.0](./LICENSE).
+
 
 
 
